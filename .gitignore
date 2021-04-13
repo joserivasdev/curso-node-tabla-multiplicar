@@ -1,0 +1,6 @@
+# contenido de salida
+
+node_modules/
+
+
+salida/*.txt
